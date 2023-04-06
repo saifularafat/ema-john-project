@@ -1,0 +1,58 @@
+.cart-style h2 {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 40px;
+}
+
+.cart-style {
+    padding-left: 25px;
+    position: sticky;
+    top: 0;
+}
+
+.cart-style p,
+.cart-style h4 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    color: #2A414F;
+    padding-bottom: 20px;
+}
+
+
+.cart-style h6 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    color: #0E161A;
+}
+
+.grandTotal {
+    background-color: #ffff00e4;
+    padding: 5px;
+}
+
+.btn-button-div {
+    padding-bottom: 40px;
+}
+
+.clearCart {
+    width: 95%;
+    margin: 0 auto;
+    background: #FF3030;
+    color: white;
+    border-radius: 6px;
+    margin-bottom: 15px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+}
